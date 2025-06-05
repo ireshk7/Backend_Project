@@ -26,3 +26,5 @@ const uploadOnCloudinary = async (localStorage)=>{
         return null;
     }
 }
+
+export {uploadOnCloudinary}
